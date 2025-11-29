@@ -23,9 +23,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alberto-jhen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🧠 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-jhen&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&hide=html,css)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Alberto-jhen&icon=1&color=1)](https://visitcount.itsvg.in)
 
